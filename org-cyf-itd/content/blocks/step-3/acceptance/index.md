@@ -14,7 +14,6 @@ A volunteer will review your submission and check it meets the acceptance criter
 Here is the criteria you need to meet:
 
 ```objectives
-- You confirm you have completed Unit 2 of Khan Academy Computer Programming course: HTML/CSS Making Webpages
-- You have shared a link to your Invitation project on GitHub Pages
-- Your website link includes your name
+- You confirm you have completed the Scrimba course on HTML/CSS 
+- You have polished and deployed one of the projects
 ```
