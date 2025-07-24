@@ -10,12 +10,11 @@ weight = 11
 2="Link to your PR for [Form Controls](https://github.com/CodeYourFuture/Module-Onboarding/issues/19)"
 +++
 
-> 🎯 Complete onboarding and [apply to enroll as a Trainee](https://forms.gle/vRuofa7aeL5DsbhGA)
 
 ### 🎯 You've achieved your learning objectives if you can:
 
 ```objectives
-- Explain to someone how we use prep, backlogs, day plans, and success pages at {{<our-name>}}.
+- Explain to someone how we use prep, backlogs, day plans, and success pages at MigraCode.
 - Track changes to data (your code) over time with Git and GitHub.
 - Validate data with HTML forms.
 - Analyse structured data with SQL in a spreadsheet.

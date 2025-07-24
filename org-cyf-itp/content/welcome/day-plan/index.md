@@ -39,10 +39,10 @@ time=45
 # [[blocks]]
 # name="Lunch"
 # src="blocks/lunch"
-[[blocks]]
-name="Blockers! Getting Unstuck"
-src="module/onboarding/blockers"
-time=75
+# [[blocks]]
+# name="Blockers! Getting Unstuck"
+# src="module/onboarding/blockers"
+# time=75
 # [[blocks]]
 # name="Afternoon break"
 # src="blocks/afternoon-break"

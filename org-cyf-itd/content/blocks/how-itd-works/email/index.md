@@ -18,7 +18,6 @@ First of all, I confirm that I have introduced myself on the `#itd-2025` Slack c
 Please find below all the required materials:
 
 
-
   **Step 3a.** Screenshot showing course completion (all four projects except the Hometown project need to be at close to 100% completion): `[paste the screenshot here]`
 
   **Step 3b.** Link to my deployed GIFt Site:  `[paste the URL here]`
