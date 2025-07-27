@@ -44,7 +44,7 @@ owner = "Migracode-Barcelona"
 org = "https://github.com/Migracode-Barcelona"
 repo = "https://github.com/Migracode-Barcelona/curriculum2.0/"
 pdrepo = "CYF-PD"
-root = "curriculum"
+root = "curriculum2.0"
 googleFonts="https://fonts.googleapis.com/css2?family=Jura:wght@400;600;700&family=Inter:wght@400;500;700&family=Noto+Color+Emoji&family=Raleway:wght@300;600;800;900&family=Lato:wght@500;800&display=swap"
 
 # We use a proxy which concatenates paginated responses, otherwise we miss results.
