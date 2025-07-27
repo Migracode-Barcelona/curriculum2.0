@@ -31,9 +31,9 @@ time=15
 name="Set up Planner"
 src="https://github.com/CodeYourFuture/Coursework-Planner/tree/main"
 time=30
-[[blocks]]
+<!-- [[blocks]]
 name="CYF Blog"
-src="module/induction/cyf-blog"
+src="module/induction/cyf-blog" -->
 [[blocks]]
 name="Development Process"
 src="module/induction/development-process"
