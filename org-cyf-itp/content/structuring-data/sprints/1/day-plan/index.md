@@ -23,7 +23,7 @@ name="Another Asking Questions Workshop"
 src="https://cyf-pd.netlify.app/blocks/asking-good-technical-questions"
 time=70
 [[blocks]]
-name="lunch"
+name="Lunch"
 src="blocks/lunch"
 [[blocks]]
 name="Blockers! Getting Unstuck"
@@ -36,13 +36,13 @@ time=60
 [[blocks.nested.blocks]]
 name="Optional structured activity: Pair Programming"
 src="module/onboarding/pairing"
-[[blocks.nested.blocks]]
-name="Optional structured activity: Code Review"
-src="blocks/mentored-code-review"
-[[blocks]]
-name="Code Review"
-src="https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data/pulls"
-time="0"
+# [[blocks.nested.blocks]]
+# name="Optional structured activity: Code Review"
+# src="blocks/mentored-code-review"
+# [[blocks]]
+# name="Code Review"
+# src="https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data/pulls"
+# time="0"
 [[blocks]]
 name="Afternoon break"
 src="blocks/afternoon-break"
