@@ -18,26 +18,26 @@ time=15
 name="Workshop: Developer Tools"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/devtools/"
 time="120"
-[[blocks]]
-name="Study Group"
-src="module/onboarding/development"
-time=25
+# [[blocks]]
+# name="Study Group"
+# src="module/onboarding/development"
+# time=25
 [[blocks.nested.blocks]]
 name="Optional structured activity: Pair Programming"
 src="module/onboarding/pairing"
 # [[blocks.nested.blocks]]
 # name="Optional structured activity: Submit your Step"
 # src="module/onboarding/steps"
-[[blocks]]
-name="Lunch"
-src="blocks/lunch"
-[[blocks]]
-name="Blockers! Getting Unstuck"
-src="module/onboarding/blockers"
-time=45
-[[blocks]]
-name="Afternoon break"
-src="blocks/afternoon-break"
+# [[blocks]]
+# name="Lunch"
+# src="blocks/lunch"
+# [[blocks]]
+# name="Blockers! Getting Unstuck"
+# src="module/onboarding/blockers"
+# time=45
+# [[blocks]]
+# name="Afternoon break"
+# src="blocks/afternoon-break"
 [[blocks]]
 name="Study Group"
 src="module/onboarding/development"

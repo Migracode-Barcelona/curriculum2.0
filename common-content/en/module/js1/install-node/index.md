@@ -57,7 +57,7 @@ You should see a version number like `10.9.2`.
 
 ##  On Mac
 
-1. Install the the Xcode Command Line Developer Tools by running the following command in your terminal:
+1. Install the Xcode Command Line Developer Tools by running the following command in your terminal:
 
 ```terminal
 xcode-select --install

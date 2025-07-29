@@ -9,7 +9,7 @@ name="Morning orientation"
 src="blocks/morning-orientation"
 time=10
 [[blocks]]
-name="Energiser: Popcorn"
+name="Energiser: Screen Safari"
 src="energisers/popcorn-screen-share"
 [[blocks]]
 name="Javascript Test Your Understanding"
