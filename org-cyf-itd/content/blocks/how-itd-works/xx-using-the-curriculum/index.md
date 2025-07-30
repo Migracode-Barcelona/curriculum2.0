@@ -5,7 +5,7 @@ author=""
 time=5
 +++
 
-**Submissions are open until the 30th of July of 2025.**
+**Submissions are open until the 22nd of August of 2025.**
 
 To submit ITD you will need to reply to the email you received in the first place asking you to complete the ITD, and attach all the necessary proof that you have finalised everything.
 
