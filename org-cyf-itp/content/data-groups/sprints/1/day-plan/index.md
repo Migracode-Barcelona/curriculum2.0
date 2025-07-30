@@ -19,21 +19,22 @@ time="60"
 name="Giving Feedback [PD] (60 Mins)"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/feedback"
 time=0
+# [[blocks]]
+# name="Lunch"
+# src="blocks/lunch"
 [[blocks]]
 name="Morning break"
-src="blocks/lunch"
+src="blocks/afternoon-break"
 time=15
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
 time="90"
+# Commented out per new day plan outline from manager — not currently in use
 # [[blocks]]
 # name="Code Review"
 # src="https://github.com/CodeYourFuture/Module-Data-Groups/pulls"
 # time="0"
-# [[blocks]]
-# name="Afternoon break"
-# src="blocks/afternoon-break"
 # [[blocks]]
 # name="Study Group"
 # src="blocks/study-group"
