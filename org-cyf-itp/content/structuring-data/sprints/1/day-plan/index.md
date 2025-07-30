@@ -12,6 +12,9 @@ time=10
 name="Energiser: Screen Safari"
 src="energisers/popcorn-screen-share"
 [[blocks]]
+name="Disclaimer: this exercise is from Code Your Future"
+src="blocks/disclaimer-mc"
+[[blocks]]
 name="Javascript Test Your Understanding"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/js1-wk1-eval"
 time=65
