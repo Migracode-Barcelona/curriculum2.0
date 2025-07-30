@@ -20,7 +20,6 @@ time=60
   name="DOM merge conflict [Tech] (60 Mins)"
   src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/dom-merge-conflict"
   time=0
-
   [[blocks.nested.blocks]]
   name="Interviewing practice [PD] (60 Mins)"
   src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/interviewing"
