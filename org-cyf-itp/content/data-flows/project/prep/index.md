@@ -10,5 +10,5 @@ name="Planning and organising your project"
 src="https://github.com/CodeYourFuture/Project-TV-Show/readme"
 [[blocks]]
 name="Setting up"
-src="https://github.com/CodeYourFuture/Project-TV-Show/issues/4"
+src="https://github.com/Migracode-Barcelona/Project-TV-Show/issues/7"
 +++
