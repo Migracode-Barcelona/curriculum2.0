@@ -15,7 +15,6 @@ time=15
 name="Workshop"
 src="blocks/workshop"
 time=60
-  [[blocks.nested]]
   [[blocks.nested.blocks]]
   name="DOM merge conflict [Tech] (60 Mins)"
   src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/dom-merge-conflict"
