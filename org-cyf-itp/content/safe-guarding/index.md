@@ -12,7 +12,7 @@ emoji="🛟"
 
 At MigraCode, creating a safe, respectful, and inclusive environment is essential. We work with people from diverse backgrounds—often in vulnerable situations—and we are committed to protecting the **health, well-being, and human rights** of everyone involved: students, volunteers, and staff.
 
-Safeguarding means taking **all necessary steps to prevent harm, abuse, or neglect**—and knowing how to act when concerns arise.
+Safeguarding means taking **all necessary steps to prevent harm, abuse, or neglect**—and knowing how to act if concerns arise.
 
 ---
 
