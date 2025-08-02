@@ -7,14 +7,15 @@ weight = 3
 [[blocks]]
 name="Energiser"
 src="blocks/energiser"
+time=20 
 [[blocks]]
 name="Morning orientation"
 src="blocks/morning-orientation"
-time=15
+time=20
 [[blocks]]
 name="Workshop"
 src="blocks/workshop"
-time="100"
+time=150 
   [[blocks.nested.blocks]]
     name="Objects [Tech] (60 Mins)"
     src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/objects"
@@ -26,17 +27,18 @@ time="100"
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
+time=30
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
-time="60"
+time=60
 # [[blocks]]
 # name="Code Review"
 # src="https://github.com/CodeYourFuture/Module-Data-Groups/pulls"
 # time="0"
-[[blocks]]
-name="Afternoon break"
-src="blocks/afternoon-break"
+# [[blocks]]
+# name="Afternoon break"
+# src="blocks/afternoon-break"
 # [[blocks]]
 # name="Study Group"
 # src="blocks/study-group"
@@ -44,4 +46,5 @@ src="blocks/afternoon-break"
 [[blocks]]
 name="Retro"
 src="blocks/retro"
+time=30
 +++
