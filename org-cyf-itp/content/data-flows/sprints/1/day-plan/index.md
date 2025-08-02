@@ -10,26 +10,27 @@ src="blocks/energiser"
 [[blocks]]
 name="Morning orientation"
 src="blocks/morning-orientation"
-time=15
+time=10 
 [[blocks]]
 name="Teamwork Project Sprint 1"
 src="https://cyf-pd.netlify.app/blocks/teamwork-project-s1/readme/"
-time=100
+time=150
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
+time=30
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
-time="60"
+time=60
 # [[blocks]]
 # name="Code Review"
 # src="https://github.com/CodeYourFuture/Module-Data-Flows/pulls"
 # time="0"
-[[blocks]]
-name="Afternoon break"
-src="blocks/afternoon-break"
-time="10"
+# [[blocks]]
+# name="Afternoon break"
+# src="blocks/afternoon-break"
+# time="10"
 # [[blocks]]
 # name="Study Group"
 # src="blocks/study-group"
@@ -37,4 +38,5 @@ time="10"
 [[blocks]]
 name="Retrospective"
 src="blocks/retro"
+time=30 
 +++
