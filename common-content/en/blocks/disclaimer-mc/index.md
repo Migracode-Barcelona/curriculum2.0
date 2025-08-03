@@ -10,6 +10,9 @@ time=60
 +++
 
 {{<note title="📌 Disclaimer">}}
+This next exercise is hosted on the GitHub repository of our partner NGO, **Code Your Future** (UK), and **not** on a MigraCode-owned repository.
+We are part of a European network where we share resources and support each other as we share the same mission - to provide free, high-quality tech education to our communities.
+
 The following exercise after this disclaimer comes from the GitHub repository of our partner NGO, **Code Your Future** (CYF) who sit in the UK, and **not** a MigraCode-owned repository.
 We are part of a European network where we share resources and support each other as we share the same mission -  to provide free, high-quality tech education to our communities.
 
