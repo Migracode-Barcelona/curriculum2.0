@@ -33,9 +33,12 @@ weight = 11
 > [!TIP]
 > If you've opened your PRs, but nobody has reviewed your work, you should submit your step and ask in comments for help in getting your review.
 
-[[blocks]]
-name = "Disclaimer: this exercise is from Code Your Future"
-src = "blocks/disclaimer-mc"
+{{<note title=" Disclaimer">}}
+This exercise is hosted on the GitHub repository of our partner NGO, **Code Your Future** (UK), and **not** on a MigraCode-owned repository. We are part of a European network where we share resources and support each other as we share the same mission - to provide free, high-quality tech education to our communities.
+
+The exercise works as intended — you are free to **fork and clone** the repository as usual, if required by the exercise.
+However, please do not make any pull requests to the original Code Your Future repository.
+{{</note>}}
 
 ## ✅ To complete _this_ module, you must:
 
