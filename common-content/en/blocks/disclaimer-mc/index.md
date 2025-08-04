@@ -1,11 +1,11 @@
 +++
 title="Disclaimer"
 emoji="⚠️"
-# time=60
-# [build]
-  # render = 'never'
-  # list = 'local'
-  # publishResources = false
+time=60
+ [build]
+   render = 'never'
+   list = 'local'
+   publishResources = false
 
 +++
 
