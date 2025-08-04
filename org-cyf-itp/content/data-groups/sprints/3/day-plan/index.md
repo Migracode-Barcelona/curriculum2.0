@@ -13,6 +13,9 @@ name="Morning orientation"
 src="blocks/morning-orientation"
 time = 20
 [[blocks]]
+name = "Disclaimer: this exercise is from Code Your Future"
+src = "blocks/disclaimer-mc"
+[[blocks]]
 name="Workshop"
 src="blocks/workshop"
 time = 60
