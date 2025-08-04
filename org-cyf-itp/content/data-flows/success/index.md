@@ -36,11 +36,14 @@ weight = 11
 > If you've opened your PRs, but nobody has reviewed your work, you can submit your step and ask in comments to get your review.
 
 {{<note title=" Disclaimer">}}
-Some of the exercises below link to the GitHub repository of our partner NGO, **Code Your Future** (UK), and **not** to a MigraCode-owned repository. We are part of a European network where we share resources and support each other as we share the same mission — to provide free, high-quality tech education to our communities.
+The following exercises after this disclaimer comes from the GitHub repository of our partner NGO, **Code Your Future** (CYF) who sit in the UK, and **not** a MigraCode-owned repository.
+We are part of a European network where we share resources and support each other as we share the same mission - to provide free, high-quality tech education to our communities.
 
-The exercises work as intended — you are free to **fork and clone** the repositories as needed.
+The exercises work as intended — you are free to **fork and clone** the repository as usual, if required by the exercise.
 
-However, please **do not make any pull requests** to the original Code Your Future repositories.
+However, please **do not make any pull requests to the original Code Your Future repository**.
+
+Lastly, if there are any **mentions to CYF Slack channels** please write a message into our **MigraCode class channel** instead.
 {{</note>}}
 
 ## ✅ To complete _this_ module, you must:
