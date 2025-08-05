@@ -12,7 +12,7 @@ emoji="🛟"
 
 At MigraCode, creating a safe, respectful, and inclusive environment is essential. We work with people from diverse backgrounds—often in vulnerable situations—and we are committed to protecting the **health, well-being, and human rights** of everyone involved: students, volunteers, and staff.
 
-Safeguarding means taking **all necessary steps to prevent harm, abuse, or neglect**—and knowing how to act when concerns arise.
+Safeguarding means taking **all necessary steps to prevent harm, abuse, or neglect**—and knowing how to act if concerns arise.
 
 ---
 
@@ -69,25 +69,33 @@ As a student, you are **not responsible for judging whether something is a safeg
 
 You can also use the **feedback form** after each module to raise minor concerns, even if you're unsure it's a safeguarding issue.
 
-> _We might also check in with you during meetings or classes—this is just part of how we make sure everyone is okay._
+> _To view issues early and prevent safeguarding issues we also aim to also create a space to check in with you during some of our Saturday classes 🌱 _
 
 
 --
 
 ## 🔎 What Happens When You Report?
 
+
 ### 1. Initial Evaluation (within 3 working days)
-- The committee assesses the **risk level** (low vs. high)
-- You’ll be contacted with next steps (unless the report is anonymous)
+The committee assesses the risk level* (low vs. high)
+You’ll be contacted with next steps (unless the report is anonymous)
 
 ### 2. Resolution Path
-
 #### Low Risk
-- Internal discussion and resolution within **15 working days**
+The Safeguarding Committee will discuss it and come to a resolution within 15 working days*
+Afterwards, we will communicate the result and measures taken to the affected parties. This can be a message or a chat with you to explain the outcome and offer the space to solve any doubts.
 
 #### High Risk
-- Urgent action and deeper investigation
-- Resolution within **15–25 working days**, depending on complexity
+These usually require urgent action. The Safeguarding Committee meets as soon as possible to discuss possible actions.
+We conduct an investigation process with all parties involved, guaranteeing privacy and respect.
+The Safeguarding Committee will discuss it once more and come to a resolution.
+Depending on complexity, the whole process should be resolved within 15–25 working days*.
+Afterwards, we will communicate the result and measures taken to the affected parties. This can be a message or a chat with you to explain the outcome and offer the space to solve any doubts.
+
+### 3. Reparation Measures
+We want to contribute to your well-being and support you in healing. Let us know if you would benefit from additional support in processing or recovering from the safeguarding concern. We can provide psychological support, discuss adaptations or financing healing equipment when necessary.
+
 
 ---
 
@@ -102,8 +110,8 @@ You can also use the **feedback form** after each module to raise minor concerns
 
 Safeguarding is not only about responding to harm—it’s about creating **a culture of safety, dignity, and respect**.
 
-If something feels strange, wrong, or unfair—**please speak up**.
+If something doesn’t sit right, feels off, or simply makes you uncomfortable—you can always talk to us.
 
-Together, we make our bootcamp a safe space to learn and grow. 💛
+No concern is too small. We’re here to listen, support, and make sure our bootcamp stays a space where everyone can grow, feel welcome, and thrive. 💛
 
 
