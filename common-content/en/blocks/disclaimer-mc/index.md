@@ -1,7 +1,6 @@
 +++
 title="Disclaimer"
 emoji="⚠️"
-time=60
  [build]
    render = 'never'
    list = 'local'
@@ -9,7 +8,7 @@ time=60
 
 +++
 
-{{<note title="📌 Disclaimer">}}
+{{<note title="">}}
 
 This exercise is hosted on the GitHub repository of our partner NGO, **Code Your Future** (UK), and **not** on a MigraCode-owned repository. We are part of a European network where we share resources and support each other as we share the same mission - to provide free, high-quality tech education to our communities.
 
