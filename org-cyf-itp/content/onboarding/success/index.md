@@ -6,8 +6,8 @@ emoji= '✅'
 menu_level = ['module']
 weight = 11
 [[objectives]]
-1="Link to your PR for [Wireframe to Web Code](https://github.com/CodeYourFuture/Module-Onboarding/issues/17)"
-2="Link to your PR for [Form Controls](https://github.com/CodeYourFuture/Module-Onboarding/issues/19)"
+1="Link to your PR for [Wireframe to Web Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/17)"
+2="Link to your PR for [Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/19)"
 +++
 
 
@@ -32,10 +32,11 @@ weight = 11
 ## ✅ To complete _this_ module, you must:
 
 1. Make a new issue on your own Coursework Planner.
-1. Link to your "[Wireframe to Web Code](https://github.com/CodeYourFuture/Module-Onboarding/issues/17)" and "[Form Controls](https://github.com/CodeYourFuture/Module-Onboarding/issues/19)" pull requests on your issue.\
+1. Link to your "[Wireframe to Web Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/17)" and "[Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/19)" pull requests on your issue.\
    You should include two links, one for each pull request.\
-   Your PRs must have been reviewed, and a volunteer must have added the "Complete" tag - if no one is reviewing your PRs, please ask on Slack in #cyf-code-review.
-1. Submit the issue link to step 1 of ITP on [CYF Course Portal](https://application-process.codeyourfuture.io/).
-1. **[Apply to enroll as a Trainee](https://forms.gle/vRuofa7aeL5DsbhGA)**.
+   Your PRs must have been reviewed, and a volunteer must have added the "Complete" tag.
+ 
+1. Submit the **[ Assignment Submission Form](https://airtable.com/appHB49eVBBLG0KZH/pagHBHn5kyBE8IjEH/form)**.
 
-Here are those PRs again:
+
+In short- you need to:
