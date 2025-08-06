@@ -9,6 +9,9 @@ weight = 1
 # src="https://github.com/CodeYourFuture/Module-Onboarding/issues/72"
 # time=30
 [[blocks]]
+name="Disclaimer: this exercise is from Code Your Future"
+src="blocks/disclaimer-mc"
+[[blocks]]
 name="Accessibility: Record a Goose"
 title="Accessibility audit"
 src="https://github.com/CodeYourFuture/Project-Record-A-Goose/"
