@@ -1,6 +1,7 @@
 +++
 title="Disclaimer"
 emoji="⚠️"
+time = 0
  [build]
    render = 'never'
    list = 'local'

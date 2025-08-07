@@ -15,7 +15,6 @@ time = 20
 [[blocks]]
 name = "Disclaimer: this exercise is from Code Your Future"
 src = "blocks/disclaimer-mc"
-time = 0
 [[blocks]]
 name="Workshop"
 src="blocks/workshop"

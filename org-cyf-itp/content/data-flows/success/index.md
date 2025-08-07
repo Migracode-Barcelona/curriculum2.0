@@ -45,4 +45,4 @@ However, please do not make any pull requests to the original Code Your Future r
 
 ## ✅ To complete _this_ module, you must:
 
-Submit all the following items to complete this module on your private slack channel with the MigraCode team.
+Submit all the following items to complete this module through this [Submission Form](https://airtable.com/appHB49eVBBLG0KZH/pagHBHn5kyBE8IjEH/form)
