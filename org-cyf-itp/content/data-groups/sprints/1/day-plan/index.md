@@ -4,7 +4,6 @@ layout = 'day-plan'
 emoji= '🧑🏾‍🤝‍🧑🏾'
 menu_level = ['sprint']
 weight = 3
-
 [[blocks]]
 name="Energiser"
 src="blocks/energiser"
@@ -13,7 +12,7 @@ time=20
 name="Morning orientation"
 src="blocks/morning-orientation"
 time=20
-[[blocks]]
+[[blocks.nested.blocks]]
 name = "Disclaimer: this exercise is from Code Your Future"
 src = "blocks/disclaimer-mc"
 time = 0
