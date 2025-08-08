@@ -12,9 +12,10 @@ time=20
 name="Morning orientation"
 src="blocks/morning-orientation"
 time=20
-[[blocks]]
+[[blocks.nested.blocks]]
 name = "Disclaimer: this exercise is from Code Your Future"
 src = "blocks/disclaimer-mc"
+time = 0
 [[blocks]]
 name="Workshop"
 src="blocks/workshop"
