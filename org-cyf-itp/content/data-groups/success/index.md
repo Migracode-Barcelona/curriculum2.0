@@ -6,10 +6,10 @@ emoji= '✅'
 menu_level = ['module']
 weight = 11
 [[objectives]]
-1="Link to your PR for [Sprint 2 Coursework](https://github.com/CodeYourFuture/Module-Data-Groups/issues/14)"
-2="Link to your PR for your [Alarm Clock App](https://github.com/CodeYourFuture/Module-Data-Groups/issues/26)"
-3="Link to your PR for your [Quote Generator App](https://github.com/CodeYourFuture/Module-Data-Groups/issues/20)"
-4="Link to your [Brag Diary](https://github.com/CodeYourFuture/Module-Data-Groups/issues/10) and explain how you have used it to record your progress"
+1="Link to your PR for [Sprint 2 Coursework](https://github.com/Migracode-Barcelona/Module-Data-Groups/issues/24)"
+2="Link to your PR for your [Alarm Clock App](https://github.com/Migracode-Barcelona/Module-Data-Groups/issues/15)"
+3="Link to your PR for your [Quote Generator App](https://github.com/Migracode-Barcelona/Module-Data-Groups/issues/20)"
+4="Link to your [Brag Diary](https://github.com/Migracode-Barcelona/Module-Data-Groups/issues/28) and explain how you have used it to record your progress"
 
 +++
 
