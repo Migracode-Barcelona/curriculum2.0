@@ -6,9 +6,9 @@ emoji= "✅"
 menu_level = [ "module" ]
 weight = 11
 [[objectives]]
-1="Link to your GitHub repo and deployed Netlify site for your [TV show project](https://github.com/CodeYourFuture/Project-TV-Show). Include links to your level 400 and level 500 PRs that show that both you and your partner contributed."
-2="Link to your PR for your [Book Library Project](https://github.com/CodeYourFuture/Module-Data-Flows/issues/31), where you have responded to review feedback."
-3="Work out your LinkedIn [Social Selling Index](https://github.com/CodeYourFuture/Module-Data-Flows/issues/12), and posted the actions you will take to improve this"
+1="Link to your GitHub repo and deployed Netlify site for your [TV show project](https://github.com/Migracode-Barcelona/Project-TV-Show). Include links to your level 400 and level 500 PRs that show that both you and your partner contributed."
+2="Link to your PR for your [Book Library Project](https://github.com/Migracode-Barcelona/Module-Data-Flows/issues/12), where you have responded to review feedback."
+3="Work out your LinkedIn [Social Selling Index](https://github.com/Migracode-Barcelona/Module-Data-Flows/issues/25), and posted the actions you will take to improve this"
 +++
 
 ### 🎯 You've achieved your learning objectives if you can:
