@@ -7,47 +7,44 @@ weight = 3
 [[blocks]]
 name="Energiser"
 src="blocks/energiser"
+time=20
 [[blocks]]
 name="Morning orientation"
 src="blocks/morning-orientation"
-time=15
+time=20
+[[blocks.nested.blocks]]
+name = "Disclaimer: this exercise is from Code Your Future"
+src = "blocks/disclaimer-mc"
+time = 0
 [[blocks]]
 name="Workshop"
 src="blocks/workshop"
-time="90"
+time=55  
 [[blocks.nested.blocks]]
 name="Giving Feedback [PD] (60 Mins)"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/feedback"
 time=0
+# [[blocks]]
+# name="Lunch"
+# src="blocks/lunch"
 [[blocks]]
-name="Lunch"
-src="blocks/lunch"
+name="Morning break"
+src="blocks/afternoon-break"
+time=20
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
-time="60"
-
+time=95
 # [[blocks]]
-
 # name="Code Review"
-
 # src="https://github.com/CodeYourFuture/Module-Data-Groups/pulls"
-
 # time="0"
-
-[[blocks]]
-name="Afternoon break"
-src="blocks/afternoon-break"
-
 # [[blocks]]
-
 # name="Study Group"
-
 # src="blocks/study-group"
-
 # time="75"
-
 [[blocks]]
 name="Retro"
 src="blocks/retro"
-+++git
+time=30
++++

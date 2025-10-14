@@ -6,9 +6,9 @@ emoji= "✅"
 menu_level = [ "module" ]
 weight = 11
 [[objectives]]
-1="Link to your GitHub repo and deployed Netlify site for your [TV show project](https://github.com/CodeYourFuture/Project-TV-Show). Include links to your level 400 and level 500 PRs that show that both you and your partner contributed."
-2="Link to your PR for your [Book Library Project](https://github.com/CodeYourFuture/Module-Data-Flows/issues/31), where you have responded to review feedback."
-3="Work out your LinkedIn [Social Selling Index](https://github.com/CodeYourFuture/Module-Data-Flows/issues/12), and posted the actions you will take to improve this"
+1="Link to your GitHub repo and deployed Netlify site for your [TV show project](https://github.com/Migracode-Barcelona/Project-TV-Show). Include links to your level 400 and level 500 PRs that show that both you and your partner contributed."
+2="Link to your PR for your [Book Library Project](https://github.com/Migracode-Barcelona/Module-Data-Flows/issues/12), where you have responded to review feedback."
+3="Work out your LinkedIn [Social Selling Index](https://github.com/Migracode-Barcelona/Module-Data-Flows/issues/25), and posted the actions you will take to improve this"
 +++
 
 ### 🎯 You've achieved your learning objectives if you can:
@@ -35,14 +35,14 @@ weight = 11
 > [!TIP]
 > If you've opened your PRs, but nobody has reviewed your work, you can submit your step and ask in comments to get your review.
 
-{{<note title=":pushpin: Disclaimer">}}
-Some of the exercises below link to the GitHub repository of our partner NGO, **Code Your Future** (UK), and **not** to a MigraCode-owned repository. We are part of a European network where we share resources and support each other as we share the same mission — to provide free, high-quality tech education to our communities.
+{{<note title=" Disclaimer">}}
+These exercises are hosted on the GitHub repository of our partner NGO, **Code Your Future** (UK), and **not** on a MigraCode-owned repository. We are part of a European network where we share resources and support each other as we share the same mission - to provide free, high-quality tech education to our communities.
 
-The exercises work as intended — you are free to **fork and clone** the repositories as needed.
+The exercises work as intended — you are free to **fork and clone** the repository as usual, if required by the exercise.
 
-However, please **do not make any pull requests** to the original Code Your Future repositories.
+However, please do not make any pull requests to the original Code Your Future repository.
 {{</note>}}
 
 ## ✅ To complete _this_ module, you must:
 
-Submit the following items to complete this module on the [Course Platform](https://application-process.codeyourfuture.io/):
+Submit all the following items to complete this module through this [Submission Form](https://airtable.com/appHB49eVBBLG0KZH/pagHBHn5kyBE8IjEH/form)
