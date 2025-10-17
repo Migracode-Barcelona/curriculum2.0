@@ -16,8 +16,10 @@ hide_from_overview="true"
 
 - Work in groups and individually, in class and during the week.
 - Show up on time and participate in all activities, including helping others.
+- Have understood the [Graduation criteria and course requirements](https://migracode-itp.netlify.app/graduation-criteria/)
 - Complete the work in the way it is specified.
 - Do your best.
+-
 
 ## MigraCode students, you can expect:
 

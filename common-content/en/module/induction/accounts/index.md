@@ -79,7 +79,7 @@ If you're working on a library computer, you can't download these applications. 
 - [ ] I have downloaded and installed Google Chrome.
 - [ ] I have logged into my professional profile on Chrome.
 
-Use your professional Chrome profile for all your {{<our-name>}} work. You will often have to share your screen during sessions, so keep your personal internet use private and away from your professional profile.
+Use your professional Chrome profile for all your MigraCode work. You will often have to share your screen during sessions, so keep your personal internet use private and away from your professional profile.
 
 ### VSCode
 
