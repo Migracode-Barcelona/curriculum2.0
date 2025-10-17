@@ -13,23 +13,29 @@ objectives = [
   publishResources = false
 +++
 
-🧭 Make sure you have everything you need to come to class and do your work. _Everyone_ at {{<our-name>}} has barriers to education, and we can [help with some things](https://signposts.codeyourfuture.io/). If you cannot come to class because you can't afford:
+*Everyone* at MigraCode faces barriers to education. We can help with some of them, and for others we can recommend where to get the right support.
+The support *we* offer is focused on helping you attend class and follow the course material. For that reason, MigraCode provides additional support alongside the main education program.
 
-#### 🧒 Childcare
+---
 
-then go to 🧭 [signposts/childcare](https://signposts.codeyourfuture.io/topics/childcare/)
+### Support Options Available
 
-#### 💻 A computer or broadband
+> #### 🖥️ Borrowing a Computer  
+> At MigraCode we can lend you a laptop if needed in order to follow the bootcamp. *(Check for availability.)*
 
-then go to 🧭 [signposts/equipment](https://signposts.codeyourfuture.io/topics/equipment)
+> #### 🧠 Access to Free Mental Health Support  
+> You can speak with professional mental health providers to help manage anxiety, stress, or anything else.  
+> If you’re not sure how to access this yet, **contact the team**.
 
-#### 🚌 Bus or train tickets
+> #### 👩‍💻 Supporting Women+  
+> The *CodeWomen+* community meets 3 times a month to promote gender equality in tech.  
+> More info [here](https://codewomen.plus/en/)
 
-then go to 🧭 [signpost/transport](https://signposts.codeyourfuture.io/topics/transport)
+> #### 🌍 Learning Languages  
+> OCC also offers free language classes through the [Language Lab](https://openculturalcenter.org/language-lab/).  
+> You can register using the link.
 
-#### 🥪 Food
 
-will be provided
 
 {{<multiple-choice
   question="Who will help you with your blockers?"

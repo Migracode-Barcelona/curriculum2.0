@@ -20,16 +20,48 @@ The support _we_ can offer is around your ability to come to class, or follow th
 
 
 
-{{<note type="Borrowing">}}
+*Everyone* at MigraCode faces barriers to education. We can help with some of them, and for others we can recommend where to get the right support.
 
+The support *we* offer is focused on helping you attend class and follow the course material. For that reason, MigraCode provides additional support alongside the main education program.
+
+{{<note type="Borrowing">}}
 
 #### 💻 A computer
 
-At MigraCode we can lend you a laptop if needed in order to do our bootcamp. 
+At MigraCode we can lend you a laptop if needed in order to follow the bootcamp. *(Check for availability.)*
 
 {{</note>}}
 
-We ask that you complete the onboarding module step before we enrol you as a Trainee. We are obliged to only enrol people we have a reasonable expectation of being able to complete the whole course. But predicting the future is a challenge! We have created this module to try to give as many people as possible a fair chance to show they can do this.
+{{<note type="Mental Health">}}
+
+#### 🧠 Free mental health support
+
+You can speak with professional mental health providers to help manage anxiety, stress, or anything else.
+
+If you don’t know how to access it yet, **contact the team**.
+
+{{</note>}}
+
+{{<note type="Women+">}}
+
+#### 👩‍💻 Supporting Women+
+
+The **CodeWomen+** community meets 3 times a month to promote gender equality in the tech sector.
+
+More info [here](https://codewomen.plus/en/)
+
+{{</note>}}
+
+{{<note type="Languages">}}
+
+#### 🌍 Learning languages
+
+OCC also offers free language classes through the [Language Lab](https://openculturalcenter.org/language-lab/).
+
+You can register using the link.
+
+{{</note>}}
+
 
 {{<multiple-choice
   question="Who will help you with your blockers?"

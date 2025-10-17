@@ -18,7 +18,7 @@ Safeguarding means taking **all necessary steps to prevent harm, abuse, or negle
 
 ## 📌 Quick Links
 
-- 📄 [Safeguarding Report Form (anonymous)](https://airtable.com/appbRpCtQ1p9CP6Jd/shrz8nmrNMu4K71lo)
+- 📄 [Safeguarding Report Form (anonymous)](https://airtable.com/appbRpCtQ1p9CP6Jd/pagKhq5AcdhGlzpY4/form)
 - 💬 [Module Feedback Form](#) (for feedback after each module – *not ideal for safeguarding reports, but still monitored*)
 - 🧾 [Harassment Protocol – OCC Transparency Page](https://openculturalcenter.org/transparency/)
 - 📘 [Spanish Sexual Harassment & Gender-Based Harassment Protocol (PDF)](https://drive.google.com/file/d/1GFW7af4u_1MdmTE6IHve4ggxMqeK25m7/view?usp=sharing)
@@ -46,7 +46,7 @@ You do **not need to be sure** that something is a safeguarding issue — if it 
 
 You can report a concern:
 - **Verbally** to a trusted staff member or Safeguarding Committee member
-- **Through the anonymous [report form](https://airtable.com/appbRpCtQ1p9CP6Jd/shrz8nmrNMu4K71lo)** — no login or personal details required
+- **Through the anonymous [report form](https://airtable.com/appbRpCtQ1p9CP6Jd/pagKhq5AcdhGlzpY4/form)** — no login or personal details required
 - **Via the module feedback forms**, especially if you're unsure where to start
 
 > **Reporting will never lead to consequences for the person raising the concern** — whether it's a misunderstanding, a small issue, or something more serious.  
