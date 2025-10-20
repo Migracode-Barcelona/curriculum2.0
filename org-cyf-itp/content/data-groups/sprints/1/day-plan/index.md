@@ -38,7 +38,7 @@ time=55
 [[blocks.nested.blocks]]
 name="Debugging Is Asking Questions [Tech] (60 Mins)"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/debugging"
-time=30
+time=60
 # [[blocks]]
 # name="Study Group"
 # src="blocks/study-group"
