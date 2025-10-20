@@ -24,10 +24,6 @@ time=55
 name="Giving Feedback [PD] (60 Mins)"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/feedback"
 time=5
-[[blocks.nested.blocks]]
-name="Debugging Is Asking Questions [Tech] (60 Mins)"
-src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/debugging"
-time=30
 # [[blocks]]
 # name="Lunch"
 # src="blocks/lunch"
@@ -35,6 +31,14 @@ time=30
 name="Morning break"
 src="blocks/afternoon-break"
 time=20
+[[blocks]]
+name="Workshop"
+src="blocks/workshop"
+time=55  
+[[blocks.nested.blocks]]
+name="Debugging Is Asking Questions [Tech] (60 Mins)"
+src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/debugging"
+time=30
 # [[blocks]]
 # name="Study Group"
 # src="blocks/study-group"
