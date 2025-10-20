@@ -15,13 +15,18 @@ src="energisers/favourite-dessert"
 # name="Morning orientation"
 # src="blocks/morning-orientation"
 # time=15
-# [[blocks]]
-# name="Welcome to MigraCode Barcelona"
-# src="https://www.youtube.com/watch?v=QBfhPkBW9Pk"
-# time=5
+[[blocks]]
+name="Code Your Future"
+src="module/induction/code-your-future"
+time=15
 [[blocks]]
 name="Workshop"
 src="module/induction/learning-as-community"
+time=15
+[[blocks]]
+name="Submitting assignments"
+src="module/induction/submitting-assignments"
+time=15
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
