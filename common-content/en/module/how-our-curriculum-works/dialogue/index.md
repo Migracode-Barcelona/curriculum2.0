@@ -2,8 +2,6 @@
 title="Dialogue"
 emoji="⛗"
 time= 30
-[objectives]
-  1="Explain the importance of dialogue in education and evaluation"
 [build]
   render = 'never'
   list = 'local'
