@@ -11,7 +11,7 @@ time=10
 
 Dear MigraCode Recruitment Committee,
 
-I am writing to submit my responses to the ITD assignment as part of the application process for the Web Development course.
+I am writing to submit my responses to the ITD  as part of the application process for the Web Development course.
 
 First of all, I confirm that I have introduced myself on the `#itd-2025` Slack channel.
 
