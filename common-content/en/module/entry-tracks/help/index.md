@@ -12,7 +12,6 @@ objectives = [
   list = 'local'
   publishResources = false
 +++
-
 *Everyone* at MigraCode faces barriers to education. We can help with some of them, and for others we can recommend where to get the right support.
 The support *we* offer is focused on helping you attend class and follow the course material. For that reason, MigraCode provides additional support alongside the main education program.
 

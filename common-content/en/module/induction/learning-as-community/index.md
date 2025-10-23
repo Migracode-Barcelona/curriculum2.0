@@ -18,3 +18,6 @@ At MigraCode, we learn as a **community.**
 In this session, we're going understand how to use the curriculum.
 
 - Let`s review [how this works](how-this-works) 
+- Let`s also review [expectations ](https://migracode-itp.netlify.app/welcome/prep/)
+- Let`s also review [graduation and course requirements ](https://migracode-itp.netlify.app/graduation-criteria/)
+
