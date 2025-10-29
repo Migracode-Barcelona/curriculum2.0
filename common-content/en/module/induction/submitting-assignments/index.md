@@ -39,7 +39,7 @@ Please submit your assignment on time (before the end of the sprint) using this 
 
 👉 [Google Form Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSesj1TzRyeaV5unZVI4Iqbgxf78qs3QVu0WSkxfr5W68HSlbg/viewform?usp=sharing&ouid=117762897010037598835)
 
-Follow the official [PR guidelines](https://www.notion.so/how-to-PR-2920d0153ad180a3824ac6f1a876509d?pvs=21).
+Follow the official [PR guidelines](https://migracode-itp.netlify.app/how-to-do-a-good-pr/).
 
 Your PR should include a clear description of your work and only contain **changes relevant to this specific assignment**.
 
