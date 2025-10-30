@@ -19,7 +19,7 @@ PRs are not just about turning in work — they’re about **collaboration, feed
 
 - 🧾 [MigraCode PR Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSesj1TzRyeaV5unZVI4Iqbgxf78qs3QVu0WSkxfr5W68HSlbg/viewform?usp=sharing&ouid=117762897010037598835)
 - 📘 [GitHub Writing Guide](https://docs.github.com/en/get-started/writing-on-github)
-- 🧭 [Git Branching Overview](https://docs.github.com/en/get-started/using-git/about-branches)
+- 🧭 [Git Branching Overview](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
 
 
 ---

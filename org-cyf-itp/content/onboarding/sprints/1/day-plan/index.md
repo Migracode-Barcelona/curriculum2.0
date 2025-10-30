@@ -34,8 +34,8 @@ src="blocks/morning-break"
 name="Disclaimer: this exercise is from Code Your Future"
 src="blocks/disclaimer-mc"
 [[blocks]]
-name="Workshop: Using GitHub"
-src="https://github.com/CodeYourFuture/github_issues_prs_practice"
+name="Developer Glasses Workshop"
+src="module/fundamentals/developer-glasses-workshop/index.md"
 time=60
 [[blocks]]
 name="Lunch"

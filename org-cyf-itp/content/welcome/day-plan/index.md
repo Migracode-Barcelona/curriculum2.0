@@ -22,21 +22,23 @@ time=15
 [[blocks]]
 name="Workshop"
 src="module/induction/learning-as-community"
-time=15
-[[blocks]]
-name="Submitting assignments"
-src="module/induction/submitting-assignments"
-time=15
+time=30
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
-# [[blocks]]
-# name="Code of Conduct"
-# src="blocks/code-of-conduct"
 [[blocks]]
 name="Telephone"
 src="blocks/telephone"
 time=45
+[[blocks]]
+name="Submitting assignments"
+src="module/induction/submitting-assignments"
+time=30
+
+# [[blocks]]
+# name="Code of Conduct"
+# src="blocks/code-of-conduct"
+
 [[blocks]]
 name="Next Steps"
 src="module/fundamentals/next-steps"
