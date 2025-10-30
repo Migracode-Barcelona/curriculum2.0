@@ -5,9 +5,9 @@ layout = 'prep'
 emoji= '🧑🏾‍💻'
 menu_level = ['sprint']
 weight = 1
-[[blocks]]
-name="we learn by asking questions"
-src="https://youtu.be/X7vWPvUfQRc"
+# [[blocks]]
+# name="we learn by asking questions"
+# src="https://youtu.be/X7vWPvUfQRc"
 [[blocks]]
 name="active learning"
 src="module/how-our-curriculum-works/active-learning"
@@ -17,9 +17,9 @@ src="module/how-our-curriculum-works/flipped-classroom"
 [[blocks]]
 name="no lectures"
 src="module/how-our-curriculum-works/no-lectures"
-[[blocks]]
-name="dialogue"
-src="module/how-our-curriculum-works/dialogue"
+# [[blocks]]
+# name="dialogue"
+# src="module/how-our-curriculum-works/dialogue"
 [[blocks]]
 name="importance of prep"
 src="module/how-our-curriculum-works/importance-of-prep"
