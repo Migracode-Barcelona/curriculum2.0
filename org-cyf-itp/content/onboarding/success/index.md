@@ -6,8 +6,8 @@ emoji= '✅'
 menu_level = ['module']
 weight = 11
 [[objectives]]
-1="Link to your PR for [Wireframe to Web Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/17)"
-2="Link to your PR for [Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/19)"
+1="Link to your PR for [Wireframe to Web Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/27)"
+2="Link to your PR for [Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/26)"
 +++
 
 
@@ -32,11 +32,10 @@ weight = 11
 ## ✅ To complete _this_ module, you must:
 
 1. Make a new issue on your own Coursework Planner.
-1. Link to your "[Wireframe to Web Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/17)" and "[Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/19)" pull requests on your issue.\
+1. Link to your "[Wireframe to Web Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/27)" and "[Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/26)" pull requests on your issue.\
    You should include two links, one for each pull request.\
    Your PRs must have been reviewed, and a volunteer must have added the "Complete" tag.
  
 1. Submit the **[ Assignment Submission Form](https://airtable.com/appHB49eVBBLG0KZH/pagHBHn5kyBE8IjEH/form)**.
 
 
-In short- you need to:
