@@ -13,13 +13,6 @@ objectives = [
   publishResources = false
 +++
 
-_Everyone_ at MigraCode has barriers to education. We can help with some things, and can recommend where to get help with others. 
-
-The support _we_ can offer is around your ability to come to class, or follow the course material. We can support you financially with the following things for the first 5 weeks of ITP. In this time, we expect you to enroll as a trainee - after 5 weeks, we can only continue supporting enrolled trainees.
-
-
-
-
 *Everyone* at MigraCode faces barriers to education. We can help with some of them, and for others we can recommend where to get the right support.
 
 The support *we* offer is focused on helping you attend class and follow the course material. For that reason, MigraCode provides additional support alongside the main education program.

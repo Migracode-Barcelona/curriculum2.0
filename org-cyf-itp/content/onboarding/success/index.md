@@ -32,9 +32,8 @@ weight = 11
 ## ✅ To complete _this_ module, you must:
 
 1. Make a new issue on your own Coursework Planner.
-1. Link to your "[Wireframe to Web Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/27)" and "[Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/26)" pull requests on your issue.\
+1. Link to your "["Wireframe to Web" Code](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/27)" and "[Form Controls](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/26)" pull requests on your issue.\
    You should include two links, one for each pull request.\
-   Your PRs must have been reviewed, and a volunteer must have added the "Complete" tag.
  
 1. Submit the **[ Assignment Submission Form](https://airtable.com/appHB49eVBBLG0KZH/pagHBHn5kyBE8IjEH/form)**.
 
