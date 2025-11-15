@@ -28,10 +28,10 @@ src="blocks/lunch"
 [[blocks]]
 name="Working with others"
 src="blocks/working-with-others"
-[[blocks]]
-name="Study Group"
-src="module/onboarding/development"
-time=60
+# [[blocks]]
+# name="Study Group"
+# src="module/onboarding/development"
+# time=60
 [[blocks.nested.blocks]]
 name="Optional structured activity: Live Code Review"
 src="blocks/mentored-code-review"
@@ -43,13 +43,13 @@ time=0
 # name="Code Review"
 # src="https://github.com/CodeYourFuture/Module-Onboarding/pulls"
 # time="0"
-[[blocks]]
-name="Afternoon break"
-src="blocks/afternoon-break"
-[[blocks]]
-name="Study Group"
-src="module/onboarding/development"
-time=60
+# [[blocks]]
+# name="Afternoon break"
+# src="blocks/afternoon-break"
+# [[blocks]]
+# name="Study Group"
+# src="module/onboarding/development"
+# time=60
 # [[blocks.nested.blocks]]
 # name="Optional structured activity for consolidating HTML forms"
 # src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/get-forms"
