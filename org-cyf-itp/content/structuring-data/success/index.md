@@ -25,11 +25,17 @@ weight = 11
 - Identify bugs in someone else’s code (person/machine)
 ```
 
-### 💯 To complete _any_ module, you must:
+### 💯 To complete this module, you must:
 
 ```objectives
 - Do your work: complete all mandatory backlog issues
 - Come to class
+- Submit the google form for your weekly course work of each sprint (3 in total). The issues to fill are [Sprint 1](https://github.com/Migracode-Barcelona/Module-Structuring-and-Testing-Data/issues/3), [Sprint 2](https://github.com/Migracode-Barcelona/Module-Structuring-and-Testing-Data/issues/25) and [Sprint 3](https://github.com/Migracode-Barcelona/Module-Structuring-and-Testing-Data/issues/26)
+   You should include three links, one for each pull request.
+ 
+-  Submit the **[ Assignment Submission Form](https://airtable.com/appHB49eVBBLG0KZH/pagHBHn5kyBE8IjEH/form)** It needs to include links to all three sprints and needs to show your coursework, its review and your interaction with the reviewer. 
+
+
 ```
 <!-- 
 ## ✅ To complete _this_ module, you must:
