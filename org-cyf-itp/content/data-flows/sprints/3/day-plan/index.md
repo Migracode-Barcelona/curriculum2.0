@@ -22,14 +22,19 @@ time=30
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
-time=60
+time=90
 # [[blocks]]
 # name="Code Review"
 # src="https://github.com/CodeYourFuture/Module-Data-Groups/pulls"
 # time="0"
-# [[blocks]]
-# name="Afternoon break"
-# src="blocks/afternoon-break"
+[[blocks]]
+name="Afternoon break"
+src="blocks/afternoon-break"
+
+[[blocks]]
+name="Piscine Projects"
+src="blocks/piscine-projects"
+time=30
 # [[blocks]]
 # name="Study Group"
 # src="blocks/study-group"
