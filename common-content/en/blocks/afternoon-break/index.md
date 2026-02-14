@@ -1,5 +1,5 @@
 +++
-title="Morning Break"
+title="Afternoon Break"
 emoji="🫖"
 time= 15
 hide_from_overview=true
@@ -9,4 +9,4 @@ hide_from_overview=true
   publishResources = false
 +++
 
-Please feel free to grab some coffee or tea or pray at this time if this is part of your religion .
+Please feel free to grab some coffee or tea.

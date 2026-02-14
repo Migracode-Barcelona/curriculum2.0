@@ -5,4 +5,5 @@ layout = 'module'
 emoji= '🐠'
 menu = ['syllabus', 'next steps']
 menus_to_map=['entry', 'sprints', 'assessment']
+draft = true
 +++
