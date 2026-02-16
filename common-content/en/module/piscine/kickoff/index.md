@@ -8,7 +8,7 @@ tasks=["Review project docs to form a development plan", "Setup a project board"
   publishResources = false
 +++
 
-At {{<our-name>}} we work in small teams to deliver working software with tests.
+At MigraCode we work in small teams to deliver working software with tests.
 
 {{<note type="tip">}}
 It's important that software works and the people can use it
@@ -16,7 +16,7 @@ It's important that software works and the people can use it
 
 ## 🎯 Goal:
 
-You will be split randomly into groups of 2-4.
+You will be get togather with your groups, which were made last Saturday.
 
 {{<note type="activity" title="Kickoff">}}
 
