@@ -11,4 +11,4 @@ time= 5
 
 ### Submission
 
-Send an introductory message stating your name, where you are from and an optional fun fact about you in the itd-2025 channel.
+Send an introductory message stating your name, where you are from and an optional fun fact about you in the itd-2026 channel.

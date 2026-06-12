@@ -23,10 +23,10 @@ However, we are all different. Some may finish in 15 hours, others may need 50. 
 
 💡 **Tip**: Plan ahead. Review the content, understand what is required, and allocate time according to your schedule and responsibilities.
 
-📅 **Next Web Dev Course starts**: Mid October 2025  
-📌 **Deadline to submit ITD**: **August 22nd, 2025**
+📅 **Next Web Dev Course starts**: October 2026  
+📌 **Deadline to submit ITD**: **August 31st, 2025**
 
-> ⚠️ Submissions after this date **will not be considered** for the September 2025 batch.
+> ⚠️ Submissions after this date **will not be considered** for the October 2026 batch.
 
 <br>
 
