@@ -98,7 +98,7 @@ Name | Class | Module | Sprint | Assignment
 
 
 **Example:**
-Alice Doe | Oct2025-1 | OnBoarding | Sprint 2 | Weather App
+Alice Doe | Oct6-1 | OnBoarding | Sprint 2 | Weather App
 
 
 ### 📝 PR Description Template
