@@ -13,7 +13,7 @@ Dear MigraCode Recruitment Committee,
 
 I am writing to submit my responses to the ITD  as part of the application process for the Web Development course.
 
-First of all, I confirm that I have introduced myself on the `#itd-2025` Slack channel.
+First of all, I confirm that I have introduced myself on the `#itd-2026` Slack channel.
 
 Please find below all the required materials:
 

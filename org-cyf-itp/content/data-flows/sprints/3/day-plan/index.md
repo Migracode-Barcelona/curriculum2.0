@@ -18,7 +18,7 @@ time=150
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
-time=30
+time=45
 [[blocks]]
 name="Study Group"
 src="blocks/study-group"
@@ -27,9 +27,19 @@ time=60
 # name="Code Review"
 # src="https://github.com/CodeYourFuture/Module-Data-Groups/pulls"
 # time="0"
-# [[blocks]]
-# name="Afternoon break"
-# src="blocks/afternoon-break"
+[[blocks]]
+name="Afternoon break"
+src="blocks/afternoon-break"
+
+[[blocks]]
+name="Piscine Projects"
+src="blocks/piscine-projects"
+time=30
+
+[[blocks]]
+name="Piscine Pre-requisites"
+src="module/piscine/programming-prereqs"
+time=15
 # [[blocks]]
 # name="Study Group"
 # src="blocks/study-group"

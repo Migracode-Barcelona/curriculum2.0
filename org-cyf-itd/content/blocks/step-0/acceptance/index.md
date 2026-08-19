@@ -13,6 +13,6 @@ Here is the criteria you need to meet:
 
 ```objectives
 - You have joined the MigraCode ITD Slack
-- You have introduced yourself on the itd-2025 channel
+- You have introduced yourself on the itd-2026 channel
 - You have a professional name and photo on your Slack profile
 ```

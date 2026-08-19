@@ -9,9 +9,9 @@ time=15
 
 Welcome to the Piscine.
 
-Before you came to class today, you should have completed the prep and signed the Trainee Agreement and the [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/). If you haven't done the prep, it's time to leave. Thanks, and try again next time.
+Today you will kick off your first team and individual project. At the end of the day, each person will give a two minute demo to their group of something they have built, learned, or discovered today
 
-If you have done the prep, you're in the right place. Please make sure you have signed the register. Sign it as soon as you come in. The register isn't just for attendance rules; we need to know who is in the building if there's a fire, so please don't sign in for anyone else.
+Lets quickly review [success criteria of the Piscine](https://migracode-itp.netlify.app/piscine/success/)
 
 Next up, we need to choose a timekeeper. The timekeeper is responsible for keeping us on track and making sure we finish on time. Who would like to volunteer?
 
@@ -28,6 +28,4 @@ Next up, we need to choose a timekeeper. The timekeeper is responsible for keepi
 - [ ] Announce the end of an activity and what happens next
 </details>
 
-Today you will kick off your first team project. At the end of the day, each person will give a two minute demo of something they have built, learned, or discovered today. Then we will wrap and go for a cup of tea together.
-
-But first, let's get to know each other. Stand up and find someone you don't know. Introduce yourself and tell them one thing you are looking forward to learning in the Piscine.
+Let's get to know each other. Stand up and find someone you don't know. Introduce yourself and tell them one thing you are looking forward to learning in the Piscine.

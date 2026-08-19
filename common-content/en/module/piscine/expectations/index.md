@@ -27,7 +27,7 @@ hide_from_overview="true"
 
 ## We expect everyone to:
 
-- Follow the [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/).
+<!-- - Follow the [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/). -->
 - Help each other.
 - Do the prep.
 

@@ -6,5 +6,6 @@ emoji= '🧪'
 menu_level = ['module']
 menu=['assessment']
 weight = 4
+draft = true
 theme = "Technical interview"
 +++
