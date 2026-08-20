@@ -1,54 +1,22 @@
-{{/* example usage: attach a label to delimit each item
-  {{<label-items heading="👆🏾 Drag the labels on to the items 👇🏽"
->}}
-[LABEL=Label-1]Item here [LABEL=Label-2]Item here anything you like can be
-multiple lines [LABEL=Label-1] Another item here
-{{< /label-items >}}
-*/}}
 {{ $heading := .Get "heading" | default "👆🏾 Drag the labels on to the items 👇🏽" }}
 {{/* Split content into items by label, using a similar pattern to TABS and COLUMNS */}}
-{{ $content := .Inner | strings.TrimSpace }}
+{{ $content := trim .Inner " \n\r\t" }}
 {{ $items := split $content "[LABEL=" }}
 
-{{ $labels := slice }}
-{{/* Need to clean up the brackets and stuff */}}
-{{ $processedItems := slice }}
-
-{{ range $index, $item := $items }}
-  {{ if $labelEnd := index (findRE `^([^\]]+)\]` $item) 0 }}
-    {{ $label := strings.TrimSuffix "]" $labelEnd }}
-    {{ $labels = $labels | append $label }}
-
-    {{ $itemContent := strings.TrimPrefix $labelEnd $item | strings.TrimSpace }}
-    {{ if $itemContent }}
-      {{ $processedItems = $processedItems | append (dict "label" $label "content" $itemContent) }}
-    {{ end }}
-  {{ end }}
-
-{{ end }}
-
-{{ $labels = $labels | uniq | shuffle }}
-
-
-<div class="c-block">
-  <label-items>
-    <section slot="labels" class="c-labels" aria-label="Labels">
-      {{ range  $labels }}
-        <button class="c-label" data-label="{{ . | urlize }}">{{ . }}</button>
-      {{ end }}
-    </section>
-    <h3 slot="heading" class="e-heading__5">{{ $heading | markdownify }}</h3>
-    <section slot="content" aria-label="Items to label">
-      {{ range $index, $item := $processedItems }}
-        <div
-          data-item="{{ add $index 1 }}"
-          data-correct="{{ .label | urlize }}">
-          {{ .content | $.Page.RenderString }}
+<div class="label-items">
+  <div class="label-items__heading">{{ $heading }}</div>
+  <div class="label-items__container">
+    {{ range $index, $item := $items }}
+      {{ if ne $index 0 }}
+        {{ $parts := split $item "]" }}
+        {{ $label := index $parts 0 }}
+        {{ $text := index $parts 1 }}
+        <div class="label-item">
+          <span class="label-item__label">{{ $label }}</span>
+          <span class="label-item__text">{{ $text | markdownify }}</span>
         </div>
       {{ end }}
-    </section>
-    <section aria-label="Feedback" slot="feedback"></section>
-  </label-items>
+    {{ end }}
+    
+  </div>
 </div>
-{{ $labelItems := resources.Get "scripts/label-items.js" | resources.Minify }}
-<script src="{{ $labelItems.RelPermalink }}" defer></script>
