@@ -4,12 +4,12 @@ go 1.22.6
 
 require (
 	github.com/CodeYourFuture/CYF-PD v1.0.1-0.20240905150045-7be086ff6886 // indirect
-	github.com/CodeYourFuture/curriculum/common-content v0.0.0-20241022142707-ee3974f18eb2 // indirect
-	github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20241022142707-ee3974f18eb2 // indirect
-	github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20241022142707-ee3974f18eb2 // indirect
+	github.com/CodeYourFuture/curriculum/common-content v0.0.0-20260818112546-58985cb6736e // indirect
+	github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20260818112546-58985cb6736e // indirect
+	github.com/CodeYourFuture/curriculum/org-cyf-guides v0.0.0-20260818112546-58985cb6736e // indirect
 	github.com/CodeYourFuture/curriculum/org-cyf-how-this-works v0.0.0-20241022142707-ee3974f18eb2 // indirect
 	github.com/CodeYourFuture/curriculum/org-cyf-piscine v0.0.0-20241022142707-ee3974f18eb2 // indirect
-	github.com/CodeYourFuture/curriculum/org-cyf-theme v0.0.0-20241022142707-ee3974f18eb2 // indirect
+	github.com/CodeYourFuture/curriculum/org-cyf-theme v0.0.0-20260818112546-58985cb6736e // indirect
 )
 
 replace github.com/CodeYourFuture/curriculum/common-content => ../common-content

@@ -4,6 +4,9 @@
 title = "CYF Courses"
 baseURL = "https://curriculum.codeyourfuture.io/"
 
+[refLinks]
+notFoundErrorLevel = 'warning'
+
 [module]
 # MODULE MOUNTS this is how we inherit the layout code and shared content
   [[module.imports]]
