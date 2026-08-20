@@ -4,10 +4,9 @@ layout='module'
 overview_menu="course schedule"
 menu=["important information", "syllabus"]
 description="Criteria that need to be fulfilled in order to receive a MigraCode graduation certificate"
-weight=3
+weight=4
 emoji="🎓"
 +++
-
 
 ## Graduation and Course Requirements
 
@@ -19,7 +18,7 @@ These are the requirements we evaluate at the end of the course to determine if 
 - **100% of coursework submitted.** If you don’t code, you won’t become a developer — and therefore we cannot promote you to hiring companies.
 - **100% attendance to all individual meetings with the MigraCode Team.**
 - **Active and equal participation in all team projects.** There will be 2 major team projects during the course, and each of you must actively contribute. Your collaboration will be reviewed to ensure fair and meaningful participation.
-- **Functioning and deployed team projects.** Your projects must work *and* be deployed. They will be evaluated based on project-specific criteria.
+- **Functioning and deployed team projects.** Your projects must work _and_ be deployed. They will be evaluated based on project-specific criteria.
 - **Attendance to all compulsory events/workshops** that complement the MigraCode program.
 
 ### Course Requirements
@@ -32,7 +31,4 @@ To remain in the course during the learning period, you must comply with the fol
 - **Submit all coursework on time for each sprint.** Missing weekly homework is grounds for evaluation.
 - **Complete your assigned work.**
 - **Attend all meetings with CodeBuddies.**
-- **Proactively communicate with the MigraCode team** about any unexpected situations that may affect your participation. It’s your responsibility to fulfil course requirements, and that includes informing us *before* issues escalate. Lack of communication will be considered when evaluating your progress.
-
-
-
+- **Proactively communicate with the MigraCode team** about any unexpected situations that may affect your participation. It’s your responsibility to fulfil course requirements, and that includes informing us _before_ issues escalate. Lack of communication will be considered when evaluating your progress.

@@ -1,10 +1,10 @@
 +++
-title = "How to submit your assignments"
+title = "Submitting Assignments"
 layout = "module"
 menu = ["important information", "syllabus"]
 description = "A practical guide for MigraCode students on how to submit assignments based on their type, including complete guidelines on opening and managing Pull Requests (PRs)."
-weight = 4
-emoji = "📤"
+weight = 3
+emoji = "📝"
 time = "30"
 [objectives]
 1 = "Understand how to submit assignments based on their submission type"

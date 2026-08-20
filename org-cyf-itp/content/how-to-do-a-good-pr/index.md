@@ -1,19 +1,32 @@
-+++
-title = "Pull Request Guidelines"
-layout = "module"
-menu = ["important information", "syllabus"]
-description = "A practical guide for MigraCode students on how to submit assignments based on their type, including complete guidelines on opening and managing Pull Requests (PRs)."
-weight = 4
-emoji = "📤"
-time = "30"
-[objectives]
-1 = "Understand how to submit assignments based on their submission type"
-2 = "Learn how to create, format, and manage professional Pull Requests"
-[build]
-  render = "never"
-  list = "local"
-  publishResources = false
-+++
+# +++
+
+# title = "Pull Request Guidelines"
+
+# layout = "module"
+
+# menu = ["important information", "syllabus"]
+
+# description = "A practical guide for MigraCode students on how to submit assignments based on their type, including complete guidelines on opening and managing Pull Requests (PRs)."
+
+# weight = 4
+
+# emoji = "📤"
+
+# time = "30"
+
+# [objectives]
+
+# 1 = "Understand how to submit assignments based on their submission type"
+
+# 2 = "Learn how to create, format, and manage professional Pull Requests"
+
+# [build]
+
+render = "never"
+list = "local"
+publishResources = false
+
+# +++
 
 # 📤 Submitting Assignments & PR Guidelines
 
@@ -43,6 +56,7 @@ This exercise is **compulsory to complete**, but **you don’t need to submit it
 - **Optional Support:** If you'd like extra feedback, you can share your PR directly with your **CodeBuddy or classmates**.
 
 ➡️ **Example – Help me with my kid’s homework**
+
 - 📋 [Curriculum Backlog](https://migracode-itp.netlify.app/onboarding/sprints/1/backlog/)
 - 🐙 [GitHub Issue](https://github.com/Migracode-Barcelona/Module-Onboarding/issues/8)
 
@@ -53,7 +67,7 @@ This exercise is **compulsory to complete**, but **you don’t need to submit it
 This exercise **must be reviewed** by a **CodeBuddy** or **volunteer**.
 
 - **Deadline:** Submit your assignment on time (before the end of the sprint).
-- **Workflow:** 
+- **Workflow:**
   1. Follow the [PR Guidelines](#-how-to-do-a-good-pull-request-pr) below.
   2. Fill out and submit the 🧾 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSesj1TzRyeaV5unZVI4Iqbgxf78qs3QVu0WSkxfr5W68HSlbg/viewform?usp=sharing&ouid=117762897010037598835).
   3. Incorporate feedback when your reviewer comments on your PR, then merge to `main`.
@@ -61,6 +75,7 @@ This exercise **must be reviewed** by a **CodeBuddy** or **volunteer**.
 > 💡 **Tip:** Keep your PRs focused! Try to keep PRs under 100 lines of changed code.
 
 ➡️ **Example – Bikes for Refugees**
+
 - 📋 [Curriculum Backlog](https://migracode-itp.netlify.app/onboarding/sprints/1/backlog/)
 - 🐙 [GitHub Repository](https://github.com/Migracode-Barcelona/bikes-for-refugees)
 
@@ -73,6 +88,7 @@ This exercise is **compulsory**, requires volunteer review, and must be recorded
 To evaluate your progress module-by-module, you must complete each step in sequence:
 
 #### ✅ Submission Checklist
+
 - [ ] **1.** Create your PR following the [PR Guidelines](#-how-to-do-a-good-pull-request-pr).
 - [ ] **2.** Submit the 🧾 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSesj1TzRyeaV5unZVI4Iqbgxf78qs3QVu0WSkxfr5W68HSlbg/viewform?usp=sharing&ouid=117762897010037598835) on time.
 - [ ] **3.** Receive feedback from a volunteer, incorporate changes, and complete your PR.
@@ -81,6 +97,7 @@ To evaluate your progress module-by-module, you must complete each step in seque
 ⚠️ **Note:** Type 3 PRs **must be submitted through the Google Form and reviewed** before submitting the final Airtable form.
 
 ➡️ **Example – Wireframe to Web Code**
+
 - 📋 [Curriculum Backlog](https://migracode-itp.netlify.app/onboarding/sprints/1/backlog/)
 - 🐙 [GitHub Directory](https://github.com/Migracode-Barcelona/Module-Onboarding/tree/main/Wireframe)
 
@@ -112,9 +129,9 @@ A **Pull Request (PR)** is how you propose code changes before merging them into
 
 1. Push your branch to GitHub.
 2. Open a Pull Request against **your own `main` branch**.
-   > ⚠️ Do *not* open PRs against upstream repositories like MigraCode Barcelona or CodeYourFuture.
+   > ⚠️ Do _not_ open PRs against upstream repositories like MigraCode Barcelona or CodeYourFuture.
 3. Verify your configuration:
-   - **Target branch:** `main`  
+   - **Target branch:** `main`
    - **Source branch:** `your-feature-branch`
 
 ![Screenshot showing correct PR target and source branches](screenshot_merge.png)
@@ -124,7 +141,9 @@ A **Pull Request (PR)** is how you propose code changes before merging them into
 ### 🧩 3. PR Title & Description Standards
 
 #### 🏷️ Title Format
+
 Structure your PR title as follows:
 
 ```text
 Name | Class | Module | Sprint | Assignment
+```
