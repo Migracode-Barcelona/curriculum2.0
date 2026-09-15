@@ -45,9 +45,7 @@ startTime="10:00"
   nextPrevInSectionSortOrder = 'asc'
   nextPrevSortOrder = 'asc'
 
-[caches.getjson]
-# Disable caching of fetches - we want every build to get up to date content for issues, so that if people make clarifications or fixes to issues, we pick them up.
-maxAge = 0
+
 
 [security.funcs]
 # Allow accessing a GitHub bearer token to avoid rate limits when doing HTTP fetches to the GitHub API.
@@ -59,3 +57,6 @@ getenv = ["^HUGO_CURRICULUM_GITHUB_BEARER_TOKEN$"]
   [module.hugoVersion]
     extended = true
     min = "0.133.0"
+
+    [security]
+  allowContent = ['^text/html$', '^text/markdown$']
