@@ -19,10 +19,10 @@ time=0
 # name="Online: Popcorn Show and Tell"
 # src="energisers/popcorn"
 # time=0
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
-time=15
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name="Workshop: Using the Curriculum"
 src="module/fundamentals/using-the-curriculum"

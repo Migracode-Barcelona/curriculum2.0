@@ -10,10 +10,10 @@ src="energisers/start-thinking-of-your-own"
 [[blocks.nested.blocks]]
 name="Energiser: Telephone!"
 src="energisers/telephone"
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
-time=15
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name="Workshop: Developer Tools"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/devtools/"

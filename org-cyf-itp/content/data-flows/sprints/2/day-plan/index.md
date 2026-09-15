@@ -7,10 +7,10 @@ weight = 3
 [[blocks]]
 name="Energiser"
 src="blocks/energiser"
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
-time=10
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name= "Teamwork Project Sprint 2"
 src="https://cyf-pd.netlify.app/blocks/teamwork-project-s2"

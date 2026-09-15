@@ -30,10 +30,10 @@ src="blocks/morning-break"
 name="Telephone"
 src="blocks/telephone"
 time=45
-[[blocks]]
-name="Submitting assignments"
-src="module/induction/submitting-assignments"
-time=30
+# [[blocks]]
+# name="Submitting assignments"
+# src="module/induction/submitting-assignments"
+# time=30
 
 # [[blocks]]
 # name="Code of Conduct"

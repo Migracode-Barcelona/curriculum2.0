@@ -4,9 +4,10 @@ layout = 'day-plan'
 emoji= '🧑🏾‍🤝‍🧑🏾'
 menu_level = ['sprint']
 weight = 3
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name="Value/Prioritisation/Estimation workshop"
 src="https://github.com/CodeYourFuture/CYF-Workshops/readme/prioritisation-and-estimating"

@@ -4,10 +4,10 @@ layout = 'day-plan'
 emoji= '🧑🏾‍🤝‍🧑🏾'
 menu_level = ['sprint']
 weight = 3
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
-time=10
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name="Energiser: Screen Safari"
 src="energisers/popcorn-screen-share"

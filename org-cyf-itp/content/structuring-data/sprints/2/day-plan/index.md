@@ -8,10 +8,10 @@ weight = 3
 name="Energiser: Word Chain"
 src="energisers/word-chain"
 time=20
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
-time=15
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name="Questions and Review Workshop"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/questions-and-reviews"
