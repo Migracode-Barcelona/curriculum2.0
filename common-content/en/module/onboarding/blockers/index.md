@@ -15,9 +15,9 @@ emoji= '🚧'
 We call problems that stop our progress "blockers". We talk through our blockers regularly and help each other get "unblocked" or "unstuck".
 
 {{<note title="Sharing Our Blockers" type="activity">}}
-Join our [Canva here](https://www.canva.com/design/DAGuKbmnAlI/D3xfJskwMG2hFNWlUI6Y9Q/edit) and add your blockers.
+Join our [Blockers Retroboard here](https://retrotool.io/ZaMWfWZM0BTbU5VMb4-f5) and add your progress as well as blockers.
 
-Make sure to add only one blocker per note.
+Make sure to add only one blocker per note. Feel free to add full questions as well as concepts, depending on your doubt
 
 {{</note>}}
 
