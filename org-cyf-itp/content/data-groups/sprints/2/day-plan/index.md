@@ -8,10 +8,10 @@ weight = 3
 name="Energiser"
 src="blocks/energiser"
 time=20 
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
-time=20
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks.nested.blocks]]
 name = "Disclaimer: this exercise is from Code Your Future"
 src = "blocks/disclaimer-mc"

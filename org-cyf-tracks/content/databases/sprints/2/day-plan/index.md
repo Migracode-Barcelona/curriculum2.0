@@ -4,9 +4,10 @@ layout = 'day-plan'
 emoji= '🧑🏽‍🤝‍🧑🏽'
 menu_level = ['sprint']
 weight = 3
-[[blocks]]
-name="Morning Orientation"
-src="blocks/morning-orientation"
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name= "Job Descriptions and Questions"
 src="https://cyf-pd.netlify.app/blocks/job-descriptions-and-questions-for-employers/readme/"

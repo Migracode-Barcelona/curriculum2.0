@@ -4,9 +4,10 @@ layout = 'day-plan'
 emoji= '🧑🏾‍🤝‍🧑🏾'
 menu_level = ['sprint']
 weight = 3
-[[blocks]]
-name="Morning orientation"
-src="blocks/morning-orientation"
+# [[blocks]]
+# name="Morning orientation"
+# src="blocks/morning-orientation"
+# time=10 
 [[blocks]]
 name="Discussion: programming language concepts"
 src="module/tools/discuss-programming-language-concepts"
