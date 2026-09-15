@@ -7,7 +7,7 @@ weight=5
 emoji="🛟"
 +++
 
-# 🛡️ Safeguarding at MigraCode
+# 🛡️ Safeguarding at MigraCode Barcelona
 
 At MigraCode, creating a safe, respectful, and inclusive environment is essential. We work with people from diverse backgrounds—often in vulnerable situations—and we are committed to protecting the **health, well-being, and human rights** of everyone involved: students, volunteers, and staff.
 

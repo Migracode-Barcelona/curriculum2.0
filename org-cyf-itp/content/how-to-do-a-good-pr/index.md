@@ -1,32 +1,11 @@
-# +++
-
-# title = "Pull Request Guidelines"
-
-# layout = "module"
-
-# menu = ["important information", "syllabus"]
-
-# description = "A practical guide for MigraCode students on how to submit assignments based on their type, including complete guidelines on opening and managing Pull Requests (PRs)."
-
-# weight = 4
-
-# emoji = "📤"
-
-# time = "30"
-
-# [objectives]
-
-# 1 = "Understand how to submit assignments based on their submission type"
-
-# 2 = "Learn how to create, format, and manage professional Pull Requests"
-
-# [build]
-
-render = "never"
-list = "local"
-publishResources = false
-
-# +++
++++
+title = "Submitting Assignments"
+layout = "module"
+menu = ["important information", "syllabus"]
+description = "A practical guide for MigraCode students on how to submit assignments based on their type, including complete guidelines on opening and managing Pull Requests (PRs)."
+weight = 3
+emoji = "📝"
++++
 
 # 📤 Submitting Assignments & PR Guidelines
 
