@@ -1,7 +1,7 @@
 +++
 title="Wrap"
 emoji="🎉"
-time=20
+time=5
 [build]
   render = 'never'
   list = 'local'
@@ -9,12 +9,5 @@ time=20
 +++
 
 You are done for the day. Take a moment to reflect on what you have learned and achieved.
-
-Stand in a circle and share:
-
-- 📛 your name
-- 💪🏽 one thing you achieved today
-- 👷🏾 the task you are going to work on next
-- 🛟 one thing you need help with
-
-Give yourselves a round of applause. Now you have earned your rest. Usually people go for a cup of tea or a pint after class. You are welcome to join and wind down together.
+Feel free to share your favorite part and what you take away from the class.
+Give yourselves a round of applause. Now you have earned your rest. 🚀 See you on Thursday!
