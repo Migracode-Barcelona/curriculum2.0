@@ -15,7 +15,7 @@ emoji= '🚧'
 We call problems that stop our progress "blockers". We talk through our blockers regularly and help each other get "unblocked" or "unstuck".
 
 {{<note title="Sharing Our Blockers" type="activity">}}
-Join our [Retro Board here](https://retrotool.io/ybSg0nNPLRWymNDdNeIVa) or grab some sticky notes. Add your blockers.
+Join our [ Group 1 Retro Board here](https://retrotool.io/ybSg0nNPLRWymNDdNeIVa) as well as our [ Group 2 Retro Board here ](https://retrotool.io/FRXtB0_F-bH-hPh9NSP6B)or grab some sticky notes. Add your blockers.
 
 Make sure to add only one blocker per note.
 
